@@ -97,7 +97,9 @@ a:visited {
     font-weight: bolder;
 }
 
-
+.button1 button:hover {
+    background-color: #3776db;
+}
 
 .image {
     width: 450px;
@@ -213,3 +215,7 @@ img {
     font-size: 18px;
 }
 
+.button2 button:hover {
+    background-color: #f9faf8;
+    color: #1f2937;
+}
